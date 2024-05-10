@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "cassettes:block/dirt",
+    "east": "cassettes:block/grass_block_side",
+    "north": "cassettes:block/grass_block_side",
+    "particle": "cassettes:block/dirt",
+    "south": "cassettes:block/grass_block_side",
+    "up": "cassettes:block/grass_block_top",
+    "west": "cassettes:block/grass_block_side"
+  }
+}

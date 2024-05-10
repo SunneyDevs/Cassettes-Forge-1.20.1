@@ -2,5 +2,8 @@
   "item.cassettes.cassette": "Cassette",
   "item.cassettes.blank_cassette": "Blank Cassette",
 
+  "block.cassettes.plastic_block": "Plastic Block",
+  "block.cassettes.nostalgia_block": "Block of Nostalgia",
+
   "creativetab.cassette_tab": "That 70's Mod"
 }
